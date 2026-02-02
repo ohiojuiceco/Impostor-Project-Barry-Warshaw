@@ -13,3 +13,5 @@ This is a local multiplayer "Social Deduction" game built entirely in Python. It
 * **100+ Words:** A massive built-in word list for endless amount of replays.
 * **Beginner Friendly:** Written using fundamental Python concepts (loops, lists, and basic modules).
 * **Platforms:** Works on Windows, Mac, and Linux.
+
+is ts tuff
